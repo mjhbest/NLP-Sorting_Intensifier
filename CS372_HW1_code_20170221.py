@@ -3,7 +3,7 @@ from nltk.corpus import wordnet as wn
 from nltk.corpus import brown
 from nltk.stem.wordnet import WordNetLemmatizer
 
-#manually setted intensity of often-used adverbs
+#manually set intensity of often-used adverbs
 i1 = ['very','highly','truly','really','quite']
 i2 = ['extremely','exceedingly','super','passing','remarkably']
 
